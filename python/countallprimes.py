@@ -1,3 +1,7 @@
+# Count primes up to N*(highest rank +1). Split up by rank, and reduce at the end.
+
+# 
+
 from mpi4py import MPI
 import numpy as np
 
